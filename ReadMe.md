@@ -18,6 +18,7 @@ I'm a Third-Year Computer Science Engineering student passionate about software 
 ### 🛠️ Technical Skills
 
 **Programming Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -65,21 +66,22 @@ I'm a Third-Year Computer Science Engineering student passionate about software 
 
 ---
 
+
 ### 📊 GitHub Statistics
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaikhJaveriya523&show_icons=true&theme=default&hide_border=true)
 
-
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhJaveriya523&layout=compact&theme=default&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhJaveriya523&layout=compact&theme=default&hide_border=true&langs_count=6)
 
 ### 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShaikhJaveriya523&theme=default&hide_border=true)
 
 ### 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShaikhJaveriya523&theme=github-light&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShaikhJaveriya523&theme=github-light&hide_border=true)
 
 ---
 
