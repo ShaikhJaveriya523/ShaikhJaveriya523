@@ -66,27 +66,28 @@ I'm a Third-Year Computer Science Engineering student passionate about software 
 ---
 
 ### 📊 GitHub Statistics
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaikhJaveriya523&show_icons=true&theme=default&hide_border=true)
 
 
 ### 💻 Most Used Languages
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhJaveriya523&layout=compact&theme=default&hide_border=true)
 
 
 ### 🔥 Contribution Streak
 
-
+![GitHub Streak](https://streak-stats.demolab.com?user=ShaikhJaveriya523&theme=default&hide_border=true)
 
 ### 📈 Contribution Activity
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShaikhJaveriya523&theme=github-light&hide_border=true)
 
 
 ---
 
 ### 🏆 Certifications
-
+- C Programming
 - Java Programming
 - SQL
+  
 
 ---
 
